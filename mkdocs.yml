@@ -1,0 +1,16 @@
+site_name: My Docs
+repo_url: https://github.com/yunwei37
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+plugins:
+  - search
+  - social
+extra:
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
